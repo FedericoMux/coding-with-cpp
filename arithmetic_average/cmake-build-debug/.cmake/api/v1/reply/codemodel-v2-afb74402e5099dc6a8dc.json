@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "arithmetic_average",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "arithmetic_average::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arithmetic_average-Debug-d1e7534343b31775c152.json",
+					"name" : "arithmetic_average",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_1/arithmetic_average/cmake-build-debug",
+		"source" : "D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_1/arithmetic_average"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja "D:\SCRIVANIA FEDERICO\Knowledge\C++\fondamenti-di-programmazione-2018-2019\esercitazioni\esercitazioni-for-github\fondamenti-A\consegna_5\count_repeated_words"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_5/count_repeated_words/cmake-build-debug

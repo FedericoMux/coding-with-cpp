@@ -1,0 +1,5 @@
+# ninja log v5
+787	1308	6644861293442626	count_repeated_words.exe	dca58f6c3ec8378c
+6	786	6644861288324152	CMakeFiles/count_repeated_words.dir/count_repeated_words.cpp.obj	98e4d3dcf30cdaeb
+5	701	6784686999979036	CMakeFiles/count_repeated_words.dir/count_repeated_words.cpp.obj	840b0cf38f43c57
+702	1190	6784687004823152	count_repeated_words.exe	dca58f6c3ec8378c

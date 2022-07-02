@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "identifiers_parser",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "identifiers_parser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-identifiers_parser-Debug-dcf77fa3d5e40b43d25e.json",
+					"name" : "identifiers_parser",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_5/identifiers_parser/cmake-build-debug",
+		"source" : "D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_5/identifiers_parser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

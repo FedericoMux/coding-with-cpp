@@ -1,0 +1,3 @@
+D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_5/split_pos_neg_integers/cmake-build-debug/CMakeFiles/split_pos_neg_integers.dir
+D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_5/split_pos_neg_integers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_5/split_pos_neg_integers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

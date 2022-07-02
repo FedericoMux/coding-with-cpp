@@ -1,0 +1,7 @@
+# ninja log v5
+802	1156	6642144519213454	recursive_id_function.exe	cd538f20f8c714c7
+810	1085	6645579858992343	cpp_identifiers_parser.exe	99b8be7732b1a345
+5	1274	6645589194632091	CMakeFiles/identifiers_parser.dir/identifiers_parser.cpp.obj	210d1b9f409053aa
+1275	1712	6645589198933360	identifiers_parser.exe	eb5b64d878f3156
+9	627	6784688340505201	CMakeFiles/identifiers_parser.dir/identifiers_parser.cpp.obj	37e4338ea70f90ce
+629	893	6784688343161421	identifiers_parser.exe	eb5b64d878f3156

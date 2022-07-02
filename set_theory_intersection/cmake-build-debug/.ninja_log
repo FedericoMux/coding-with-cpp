@@ -1,0 +1,7 @@
+# ninja log v5
+1732	2208	6643300208643082	set_theory_intersection.exe	8f70172ac1dce140
+6	1731	6643300203955588	CMakeFiles/set_theory_intersection.dir/set_theory_intersection.cpp.obj	2bccdac9350840f8
+6	4439	6784551880193234	CMakeFiles/set_theory_intersection.dir/set_theory_intersection.cpp.obj	50bcbf8cd54a1a9f
+4440	6335	6784551899116566	set_theory_intersection.exe	8f70172ac1dce140
+21	1748	6784595020582548	CMakeFiles/set_theory_intersection.dir/set_theory_intersection.cpp.obj	50bcbf8cd54a1a9f
+1749	2706	6784595030113841	set_theory_intersection.exe	8f70172ac1dce140

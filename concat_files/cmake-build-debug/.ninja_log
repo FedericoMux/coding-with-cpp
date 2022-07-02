@@ -1,0 +1,5 @@
+# ninja log v5
+1540	1845	6649058217725865	concat_files.exe	cb05bf09124283f1
+7	1538	6649058214757131	CMakeFiles/concat_files.dir/concat_files.cpp.obj	85ad4c98ddec5995
+7	1021	6784691441064979	CMakeFiles/concat_files.dir/concat_files.cpp.obj	193d2f6a3e1aa8e0
+1022	1506	6784691445909037	concat_files.exe	cb05bf09124283f1

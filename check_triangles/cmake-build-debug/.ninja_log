@@ -1,0 +1,5 @@
+# ninja log v5
+611	938	6643173549433515	check_triangles.exe	aa34c8f026c257ea
+7	610	6643173546152271	CMakeFiles/check_triangles.dir/check_triangles.cpp.obj	8358437eb7630258
+5	2163	6784591496753119	CMakeFiles/check_triangles.dir/check_triangles.cpp.obj	fe1a7214cab2075f
+2164	3418	6784591509565618	check_triangles.exe	aa34c8f026c257ea

@@ -1,0 +1,7 @@
+# ninja log v5
+1511	2029	6682144535655138	compare_words.exe	649fb43f4797228a
+10	1510	6682144530746723	CMakeFiles/compare_words.dir/compare_words.cpp.obj	d9e8e216588c67f7
+6	3684	6784545604685845	CMakeFiles/compare_words.dir/compare_words.cpp.obj	24ac97025ccb4968
+3685	5322	6784545621475817	compare_words.exe	649fb43f4797228a
+8	1340	6784599746687328	CMakeFiles/compare_words.dir/compare_words.cpp.obj	24ac97025ccb4968
+1341	2116	6784599754499811	compare_words.exe	649fb43f4797228a

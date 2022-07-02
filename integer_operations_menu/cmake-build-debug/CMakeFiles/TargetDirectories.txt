@@ -1,0 +1,3 @@
+D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_4/integer_operations_menu/cmake-build-debug/CMakeFiles/integer_operations_menu.dir
+D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_4/integer_operations_menu/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_4/integer_operations_menu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

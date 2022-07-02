@@ -1,0 +1,7 @@
+# ninja log v5
+1013	1442	6637077936582251	conversione_pollici_cm.exe	a6928fa08418c9ce
+5	870	6643098551934878	CMakeFiles/inches_to_cm_converter.dir/inches_to_cm_converter.cpp.obj	a26fc4528d68c8da
+606	973	6639693402775005	inches-to-cm-converter.exe	97a44a4a1811f7ed
+871	1343	6643098556622396	inches_to_cm_converter.exe	a199ec4ed656637d
+5	910	6784541336347081	CMakeFiles/inches_to_cm_converter.dir/inches_to_cm_converter.cpp.obj	7823d5917fda90ef
+912	1349	6784541340722377	inches_to_cm_converter.exe	a199ec4ed656637d

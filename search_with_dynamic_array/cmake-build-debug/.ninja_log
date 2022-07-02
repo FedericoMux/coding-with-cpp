@@ -1,0 +1,4 @@
+# ninja log v5
+0	706	6784816778320538	CMakeFiles/search_with_dynamic_array.dir/search_with_dynamic_array.cpp.obj	7fdcc3c4483a241d
+712	1218	6784816783390490	search_with_dynamic_array.exe	86697762282afd7c
+2	498	6784821279359201	build.ninja	7483f83d7b9096aa

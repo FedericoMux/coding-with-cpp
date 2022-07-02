@@ -1,0 +1,18 @@
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja "D:\SCRIVANIA FEDERICO\Knowledge\C++\fondamenti-di-programmazione-2018-2019\esercitazioni\esercitazioni-for-github\fondamenti-A\consegna_7\search_with_linked_list"
+-- Configuring done
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_7/search_with_linked_list/cmake-build-debug/CMakeFiles/search_with_linked_list.dir/./
+
+  has 221 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    search_with_linked_list.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Generating done
+-- Build files have been written to: D:/SCRIVANIA FEDERICO/Knowledge/C++/fondamenti-di-programmazione-2018-2019/esercitazioni/esercitazioni-for-github/fondamenti-A/consegna_7/search_with_linked_list/cmake-build-debug

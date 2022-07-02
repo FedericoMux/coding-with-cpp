@@ -1,0 +1,5 @@
+# ninja log v5
+709	940	6643095111607534	prime_numbers.exe	69c7d3f18c409e33
+7	708	6643095109419669	CMakeFiles/prime_numbers.dir/prime_numbers.cpp.obj	dd97a59be024b906
+5	1275	6784587725004149	CMakeFiles/prime_numbers.dir/prime_numbers.cpp.obj	f6cdc31935e20801
+1276	2213	6784587732347879	prime_numbers.exe	69c7d3f18c409e33

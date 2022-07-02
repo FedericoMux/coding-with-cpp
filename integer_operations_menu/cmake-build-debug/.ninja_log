@@ -1,0 +1,6 @@
+# ninja log v5
+673	928	6642005061393605	integer_menu_operations.exe	c036d9437a820632
+0	634	6643954015044343	CMakeFiles/integer_operations_menu.dir/integer_operations_menu.cpp.obj	c33f3d963b765617
+639	874	6643954017232281	integer_operations_menu.exe	92d23000aaec5d52
+7	620	6784679298658200	CMakeFiles/integer_operations_menu.dir/integer_operations_menu.cpp.obj	1321240fc0febd
+621	865	6784679301158225	integer_operations_menu.exe	92d23000aaec5d52

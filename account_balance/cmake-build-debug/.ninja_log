@@ -1,0 +1,6 @@
+# ninja log v5
+1247	1773	6644175336052102	balance_calculation.exe	748fbbfde0f625ad
+684	945	6644749464814234	account_balance.exe	1c16aaa0b3cf5fca
+6	683	6644749462314199	CMakeFiles/account_balance.dir/account_balance.cpp.obj	2edc83d763944043
+5	805	6784556690428716	CMakeFiles/account_balance.dir/account_balance.cpp.obj	850b01df2e5eebdd
+806	1205	6784556694026975	account_balance.exe	1c16aaa0b3cf5fca

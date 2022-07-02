@@ -1,0 +1,5 @@
+# ninja log v5
+1558	2396	6682141333699026	print_rectangle.exe	9c09e54a2f358eac
+21	1556	6682141325352494	CMakeFiles/print_rectangle.dir/print_rectangle.cpp.obj	942ffaa3c77fbe38
+8	1883	6784589756288029	CMakeFiles/print_rectangle.dir/print_rectangle.cpp.obj	db8935bf82943aec
+1884	2595	6784589763319519	print_rectangle.exe	9c09e54a2f358eac
